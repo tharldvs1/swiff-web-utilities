@@ -1,0 +1,1 @@
+This project brings you a collection of useful utilities to help you move faster in your web projects. We aim to develop small but powerful utilities for you that enable you to overcome your front end hurdles without much hassle.
